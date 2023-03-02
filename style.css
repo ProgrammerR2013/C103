@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position: center; 
+    color: white;
+}
+
+#creator {
+    color:blue;
+}
+
+#info_label {
+    color: yellow;
+}
+
+b {
+    color: aliceblue;
+}
